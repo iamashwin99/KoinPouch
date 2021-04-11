@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KoinPouch/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/KoinPouch/static/js/main.68cc3ae6.chunk.js",
+    "main.js.map": "/KoinPouch/static/js/main.68cc3ae6.chunk.js.map",
+    "runtime-main.js": "/KoinPouch/static/js/runtime-main.14b4baab.js",
+    "runtime-main.js.map": "/KoinPouch/static/js/runtime-main.14b4baab.js.map",
+    "static/js/2.f35e0dcf.chunk.js": "/KoinPouch/static/js/2.f35e0dcf.chunk.js",
+    "static/js/2.f35e0dcf.chunk.js.map": "/KoinPouch/static/js/2.f35e0dcf.chunk.js.map",
+    "static/js/3.2ce4418b.chunk.js": "/KoinPouch/static/js/3.2ce4418b.chunk.js",
+    "static/js/3.2ce4418b.chunk.js.map": "/KoinPouch/static/js/3.2ce4418b.chunk.js.map",
+    "index.html": "/KoinPouch/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/KoinPouch/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f35e0dcf.chunk.js.LICENSE.txt": "/KoinPouch/static/js/2.f35e0dcf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/KoinPouch/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14b4baab.js",
+    "static/js/2.f35e0dcf.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.68cc3ae6.chunk.js"
+  ]
+}
