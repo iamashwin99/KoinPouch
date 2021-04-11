@@ -5,10 +5,10 @@
     "static/css/1.069a3a4e.chunk.css": "/KoinPouch/static/css/1.069a3a4e.chunk.css",
     "static/js/1.3d8cbdd5.chunk.js": "/KoinPouch/static/js/1.3d8cbdd5.chunk.js",
     "static/js/1.3d8cbdd5.chunk.js.map": "/KoinPouch/static/js/1.3d8cbdd5.chunk.js.map",
-    "main.js": "/KoinPouch/static/js/main.4df740d5.chunk.js",
-    "main.js.map": "/KoinPouch/static/js/main.4df740d5.chunk.js.map",
-    "runtime-main.js": "/KoinPouch/static/js/runtime-main.e3609815.js",
-    "runtime-main.js.map": "/KoinPouch/static/js/runtime-main.e3609815.js.map",
+    "main.js": "/KoinPouch/static/js/main.d2b3db65.chunk.js",
+    "main.js.map": "/KoinPouch/static/js/main.d2b3db65.chunk.js.map",
+    "runtime-main.js": "/KoinPouch/static/js/runtime-main.46c91933.js",
+    "runtime-main.js.map": "/KoinPouch/static/js/runtime-main.46c91933.js.map",
     "static/css/4.a35c90fd.chunk.css": "/KoinPouch/static/css/4.a35c90fd.chunk.css",
     "static/js/4.b383d14f.chunk.js": "/KoinPouch/static/js/4.b383d14f.chunk.js",
     "static/js/4.b383d14f.chunk.js.map": "/KoinPouch/static/js/4.b383d14f.chunk.js.map",
@@ -20,8 +20,8 @@
     "static/js/6.450be18c.chunk.js.map": "/KoinPouch/static/js/6.450be18c.chunk.js.map",
     "static/js/7.3fddb61d.chunk.js": "/KoinPouch/static/js/7.3fddb61d.chunk.js",
     "static/js/7.3fddb61d.chunk.js.map": "/KoinPouch/static/js/7.3fddb61d.chunk.js.map",
-    "static/js/8.bd00cc8b.chunk.js": "/KoinPouch/static/js/8.bd00cc8b.chunk.js",
-    "static/js/8.bd00cc8b.chunk.js.map": "/KoinPouch/static/js/8.bd00cc8b.chunk.js.map",
+    "static/js/8.38052975.chunk.js": "/KoinPouch/static/js/8.38052975.chunk.js",
+    "static/js/8.38052975.chunk.js.map": "/KoinPouch/static/js/8.38052975.chunk.js.map",
     "static/js/9.0fc7709c.chunk.js": "/KoinPouch/static/js/9.0fc7709c.chunk.js",
     "static/js/9.0fc7709c.chunk.js.map": "/KoinPouch/static/js/9.0fc7709c.chunk.js.map",
     "static/js/10.a8fcc399.chunk.js": "/KoinPouch/static/js/10.a8fcc399.chunk.js",
@@ -44,9 +44,9 @@
     "static/media/font-awesome.scss": "/KoinPouch/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3609815.js",
+    "static/js/runtime-main.46c91933.js",
     "static/css/4.a35c90fd.chunk.css",
     "static/js/4.b383d14f.chunk.js",
-    "static/js/main.4df740d5.chunk.js"
+    "static/js/main.d2b3db65.chunk.js"
   ]
 }
