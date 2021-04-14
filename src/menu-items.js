@@ -7,8 +7,8 @@ export default {
             icon: 'icon-navigation',
             children: [
                 {
-                    id: 'dashboard',
-                    title: 'Dashboard',
+                    id: 'wallet',
+                    title: 'Wallet',
                     type: 'item',
                     url: '/dashboard/default',
                     icon: 'feather icon-home',

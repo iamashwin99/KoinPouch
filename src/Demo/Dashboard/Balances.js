@@ -24,7 +24,7 @@ const Dashboard = () => {
         setWalletAddress(queryWallet)
         
         // setWalletAddress('')
-        console.log(walletAddress)
+        console.log(walletAddress+'a')
         console.log('here3')
     }
 

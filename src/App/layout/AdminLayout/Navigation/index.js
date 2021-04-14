@@ -31,7 +31,7 @@ class Navigation extends Component {
 
     render() {
         let navClass = [
-            'pcoded-navbar',
+            'pcoded-navbar navbar-purple',
         ];
 
         if (this.props.preLayout !== null && this.props.preLayout !== '' && this.props.preLayout !== 'layout-6' && this.props.preLayout !== 'layout-8') {

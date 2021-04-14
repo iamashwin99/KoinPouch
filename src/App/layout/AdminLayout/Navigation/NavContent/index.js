@@ -77,7 +77,7 @@ class NavContent extends Component {
             mainContent = (
                 <div className="navbar-content datta-scroll">
                     <PerfectScrollbar>
-                        <ul className="nav pcoded-inner-navbar">
+                        <ul className="nav pcoded-inner-navbar navbar-purple">
                             {navItems}
                         </ul>
                     </PerfectScrollbar>
