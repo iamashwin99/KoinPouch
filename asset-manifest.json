@@ -7,8 +7,8 @@
     "static/js/1.4a15bf32.chunk.js.map": "/KoinPouch/static/js/1.4a15bf32.chunk.js.map",
     "main.js": "/KoinPouch/static/js/main.7bae4922.chunk.js",
     "main.js.map": "/KoinPouch/static/js/main.7bae4922.chunk.js.map",
-    "runtime-main.js": "/KoinPouch/static/js/runtime-main.75bca8c3.js",
-    "runtime-main.js.map": "/KoinPouch/static/js/runtime-main.75bca8c3.js.map",
+    "runtime-main.js": "/KoinPouch/static/js/runtime-main.45b99847.js",
+    "runtime-main.js.map": "/KoinPouch/static/js/runtime-main.45b99847.js.map",
     "static/css/4.a35c90fd.chunk.css": "/KoinPouch/static/css/4.a35c90fd.chunk.css",
     "static/js/4.a5cda167.chunk.js": "/KoinPouch/static/js/4.a5cda167.chunk.js",
     "static/js/4.a5cda167.chunk.js.map": "/KoinPouch/static/js/4.a5cda167.chunk.js.map",
@@ -24,8 +24,8 @@
     "static/js/8.a4509088.chunk.js.map": "/KoinPouch/static/js/8.a4509088.chunk.js.map",
     "static/js/9.e86921dd.chunk.js": "/KoinPouch/static/js/9.e86921dd.chunk.js",
     "static/js/9.e86921dd.chunk.js.map": "/KoinPouch/static/js/9.e86921dd.chunk.js.map",
-    "static/js/10.5469c198.chunk.js": "/KoinPouch/static/js/10.5469c198.chunk.js",
-    "static/js/10.5469c198.chunk.js.map": "/KoinPouch/static/js/10.5469c198.chunk.js.map",
+    "static/js/10.6ac32454.chunk.js": "/KoinPouch/static/js/10.6ac32454.chunk.js",
+    "static/js/10.6ac32454.chunk.js.map": "/KoinPouch/static/js/10.6ac32454.chunk.js.map",
     "static/js/11.ab955da0.chunk.js": "/KoinPouch/static/js/11.ab955da0.chunk.js",
     "static/js/11.ab955da0.chunk.js.map": "/KoinPouch/static/js/11.ab955da0.chunk.js.map",
     "static/js/12.bd94e312.chunk.js": "/KoinPouch/static/js/12.bd94e312.chunk.js",
@@ -46,7 +46,7 @@
     "static/media/font-awesome.scss": "/KoinPouch/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.75bca8c3.js",
+    "static/js/runtime-main.45b99847.js",
     "static/css/4.a35c90fd.chunk.css",
     "static/js/4.a5cda167.chunk.js",
     "static/js/main.7bae4922.chunk.js"
