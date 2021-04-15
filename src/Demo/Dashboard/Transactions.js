@@ -76,7 +76,7 @@ const searchResult = e => {
             <Col md={12}>
               <InputGroup className="mb-4">
                 <InputGroup.Prepend>
-                  <InputGroup.Text onClick={searchResult}>Search</InputGroup.Text>
+                <InputGroup.Text variant="primary" type="submit"  onClick={searchResult}>Search   </InputGroup.Text>
                 </InputGroup.Prepend>
                 <FormControl aria-label="With textarea" value={queryWallet} onChange={getWalletAdd} />
               </InputGroup>

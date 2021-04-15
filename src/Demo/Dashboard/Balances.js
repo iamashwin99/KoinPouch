@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {Row, Col, Card, InputGroup, FormControl} from 'react-bootstrap';
+import {Row, Col, Card, InputGroup, FormControl, ButtonGroup} from 'react-bootstrap';
 import Balances from '../../App/components/Balances'
 import Aux from "../../hoc/_Aux";
 // import ContentLoader from "react-content-loader";
@@ -86,7 +86,8 @@ const Dashboard = () => {
                         <Col md={12}>
                         <InputGroup className="mb-4">
                             <InputGroup.Prepend>
-                            <InputGroup.Text onClick={searchResult}>Search</InputGroup.Text>
+                            <InputGroup.Text variant="primary" type="submit"  onClick={searchResult}>Search   </InputGroup.Text>
+                            
                             </InputGroup.Prepend>
                             <FormControl aria-label="With textarea" value={queryWallet} onChange={getWalletAdd} />
                         </InputGroup>
