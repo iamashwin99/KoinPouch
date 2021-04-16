@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {Row, Col, Card, InputGroup, FormControl, ButtonGroup} from 'react-bootstrap';
+import {Row, Col, Card, InputGroup, FormControl} from 'react-bootstrap';
 import Balances from '../../App/components/Balances'
 import Aux from "../../hoc/_Aux";
 // import ContentLoader from "react-content-loader";

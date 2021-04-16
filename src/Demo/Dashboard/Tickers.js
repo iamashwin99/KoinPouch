@@ -105,7 +105,7 @@ const Dashboard = () => {
                                     <Tickers key={data.contract_address}
                                         contract_name={data.contract_name}
                                         contract_address={data.contract_address}
-                                        contract_ticker_symbol={data.contract_ticker_symbol}
+                                        contract_ticker_symbol={data.contract_ticker_symbol.trim()}
                                         quote_rate={data.quote_rate}
                                         rank={data.rank}
                                         logo_url={data.logo_url}
