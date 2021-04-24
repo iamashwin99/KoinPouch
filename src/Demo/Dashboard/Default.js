@@ -10,8 +10,9 @@ const Dashboard = () => {
             <Aux>
                 <Row>
                     <Col>
+                    
                     <Card title='Wallet' isOption>
-                        <iframe src="https://iamashwin99.github.io/avax-wallet/" height="800" width="100%" title="Wallet"></iframe>
+                        <iframe frameBorder="0" src="https://iamashwin99.github.io/avax-wallet/" height="600" width="100%" title="Wallet" ></iframe>
                             
                     </Card>
                     <Card title='About the project' isOption>
